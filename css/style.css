@@ -34,22 +34,27 @@ nav ul a{
     position: relative;top: -800px;
 }
 .text1{
-    position: relative;
-    text-align: center;
-    position: relative;bottom: 350px;
-    position: relative;right: 180px;
-    text-align: justify;
-    position: relative;left: 300px;
+    position: relative;left: 300px;top: -400px;
 }
 .griser{
     font-size: 12px;
     color: rgb(145, 138, 138);
 }
+#imag a {text-decoration: none; }
 .pomme{
     position: relative;bottom: 350px;
     position: relative;left: 300px;
-    color: rgb(65, 212, 163);
+  
 }
+.pomme ul {list-style: none;  }
+.texo ul {
+    list-style: none;
+    font-size: 21px;
+    position: relative;
+    left: 330px;
+    top: -453px;
+}
+.texo ul li a {color: rgb(65, 212, 163);}
 #ab{
     width: 100%;
     height: 600Px;
@@ -87,7 +92,7 @@ nav ul a{
 }
 .chocolat{
     position: relative;
-    bottom: 75px;
+    top: -40px;
     left: 180px;
 }
 .textb {
@@ -100,19 +105,18 @@ nav ul a{
 
 }
 .cercle{
-    width: 280px;
-    height: 280px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
-    background-color: blue;
     position: relative;
-    bottom: 300px;
-    position: relative;
-    left: 180px;
+    top: -250px;
+    left: 185px;
     background-color: #77d7c8;
 }
 .texta{
     text-align: center;
-    
+    position: relative;
+    top:50px;
 }
 .fonction{
     border-radius: 40px;
@@ -145,15 +149,15 @@ nav ul a{
     text-decoration: none;
     position: relative;
     bottom: 175px;
-    left: 450px;
-   
+    left: 450px; 
 }
+.fonction a {text-decoration: none;color: black;}
 footer{
     background-color: #273443;
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 400px;
+    height: 200px;
     position: relative;
     top: -120px;
     color: white;
@@ -174,26 +178,26 @@ footer #f1 ul li a {text-decoration: none; color: white}
 footer #f2 ul li a {text-decoration: none; color: white}
 footer #f3 ul li a {text-decoration: none; color: white}
 footer #f4 ul li a {text-decoration: none; color: white}
+
 footer #f2 {
     text-align: justify;
     position: relative;
-    top: -161Px;
+    top: -156Px;
     left: 384px;
 }
 footer #f3 {
     text-align: justify;
     position: relative;
-    top: -335Px;
+    top: -327Px;
     left: 654px;
 }
+
 footer #f4 {
     text-align: justify;
     position: relative;
-    top: -454Px;
+    top: -440Px;
     left: 920px;
 }
-
-
 
 
 
