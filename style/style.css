@@ -1,0 +1,36 @@
+.menu #ruban {width: 100%;height: 50px; background-color:hsl(171, 55%, 65%);}
+.menu{width: 100%;height: 100p600pxx;}
+.menu nav {position: relative;top: 17px;}
+.menu nav li {display: inline;margin-left:30px;position: relative;left: 30%;}
+.menu nav li a {text-decoration: none;  color: white;}
+.page1 {width: 75%;height: 600px;margin-left: 200px;position: relative;top: 0px;}
+.page1 #bloc1 .imagb1 {position: relative;left:520px;top: 75px;}
+.page1 #bloc1 .titreb1 {position: relative; top: -355px;right: -90px;}
+.page1 #bloc1 #paragb1 {position: relative; top: -365px;right: -90px;}
+.page1 #bloc1 #paragb2 {position: relative; top: -365px;right: -90px;font-size: 10px;}
+.page1 #bloc1 .miniatures ul li {position: relative; top: -365px;right: -90px;font-size: 10px;list-style: none;}
+.page1 #bloc1 .textminiatures ul li {position: relative; top: -450px;right: -125px;font-size: 17px;list-style: none ;}
+.page1 #bloc1 .textminiatures ul {color:hsl(170, 3%, 58%) ;}
+.page1 #bloc1 .textminiatures ul li a {color:hsl(171, 55%, 65%) ;}
+#page2 {width: 90%;height: 600px;margin-left: 110px;position: relative;top: -20px;background-color: :hsl(170, 3%, 58%) ;}
+#page2 #blocg {width:45%;height: 675px;background-color:#d0e9ea; position: relative;top: 100px; text-align: center;}
+#page2 #blocg #textbg {background-color::hsl(170, 3%, 58%); position: relative;top: 140px;}
+#page2 #blocg #textbg #parag1 {font: 15px;}
+#page2 #blocg #imgbg {position: relative;top: 140px;}
+#page2 #blocd {width:45%;height: 675px;background-color:#edf8f5 ; position: relative;left: 50%;top: -576px; text-align: center;}
+#page2 #blocd .contenubd {position: relative;top: 45px;}
+#page2 #blocd .contenubd .cercle {position: relative;left: 25%; width: 250px;height:250px;background-color: #71e7f0;border-radius: 100%;}
+#page2 #bloc3 {width: 350px; height: 50px;position: relative;top: -540px;left: 32%;border-radius: 25px;border: solid 2px green;}
+#page2 #bloc3 p {position: relative;left: 5%;}
+footer #rubanb {background-color: black;width: 100%;height:250px;position: relative;top: 320px;}
+footer #ligne1 h3 {position: relative;top: 100px; display: inline;margin-left: 200px; color: white;}
+footer #bas {position: relative;top: 320px;}
+footer #bas li {list-style: none; color: white;}
+footer #bas a {text-decoration: none;color: white; }
+footer #bas #bas1 {position: relative;left: 156px;top: -221px;}
+footer #bas #bas2 {position: relative;left: 449px;top: -345px;}
+footer #bas #bas3 {position: relative;left: 710px;top: -467px;}
+footer #bas #bas4 {position: relative;left: 1015px;top: -534px;}
+footer #bas #fin p {display: inline; color:white; position: relative;top :-500px;left:100px; margin-left: 100px;}
+
+
